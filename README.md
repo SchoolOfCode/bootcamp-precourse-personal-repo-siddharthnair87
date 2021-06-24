@@ -1,9 +1,14 @@
 # Precourse Personal Repo
+# I have made a tribute page for ***Toni Morrison***. 
 
-Codepen is a great way to get started coding in the browser, but we'd like you to take it to the next level and get used to working with Git and in Github repositories. Now that you have used GitHub Classroom to clone down this repo, have a try at the following:
+I wanted to make a tribute page about a person I didn't know too much about as this would give me the opportunity to educate myself about someone new and the whole process has been a really good experience for me. 
 
-- Take your code from the Codepen and insert it into the HTML and CSS files within the repository.
-- Use your new Markdown skills to write a README for the repository. In it, you can talk about why you chose the subject you chose for your tribute page as well as what you learned making it and any reflections on the development journey. You are welcome to write in this README file and delete these instructions before pushing up.
-- Add, commit, and push your changes to that repository using your new Git skills on the command line in the VS Code terminal.
-- You can then go in and make the repository public in the settings if you'd like so that it shows up on your GitHub profile for the world to see.
-- This way, you'll embed your skills and have your first project in your portfolio, and we'll be able to check out your code and be able to give you feedback as well.
+This is just the first draft and I would like to make the website a bit more interesting using a bit more javascript, but there are a few more tutorials  I need to watch before I attempt anything else. 
+
+So, this is a brief outline of what I learned from the whole process:
+
+The first thing I learnt about debugging is closing tags. I feel like I quite easily overlooked the closing tags more than once and that caused the page to misbehave. It took me a while to realize where the problem was. So, I will be keeping an eye out for closing tags. 
+
+I used css grid to position the different elements. I found it to be the best way to move things around quickly. I also have a much better understanding of how to use margins and padding. I also did a bit of animation but nothing worth bragging about. Still, I think it was good to start familiarising myself with some of the basic concepts. I do intend to polish it a bit more before I move on to the next project. 
+
+All in all, it was a pretty simple project but it was a lot of fun doing it and time flew by. 
